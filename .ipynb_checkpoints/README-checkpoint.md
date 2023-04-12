@@ -20,6 +20,6 @@
 
 ## Assignment 5:
 
-<a target="_blank" href="https://colab.research.google.com/github/CPeti/AIT23/blob/main/assignment5/8_1D_CNN_activity_recognition_assessment_ipynb_másolata.ipynb">
+<a target="_blank" href="https://colab.research.google.com/github/CPeti/AIT23/blob/main/assignment5/8_1D_CNN_activity_recognition_assessment.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
