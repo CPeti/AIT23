@@ -35,3 +35,9 @@
 <a target="_blank" href="https://colab.research.google.com/github/CPeti/AIT23/blob/main/assignment7/11_Huggingface_Text_Classification_assessment.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
+
+## Assignment 8:
+
+<a target="_blank" href="https://colab.research.google.com/github/CPeti/AIT23/blob/main/assignment8/12_Anomaly_detection_AE_assessment.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
